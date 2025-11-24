@@ -1,1 +1,1 @@
-# discord-join-queue
+# Discord Join Queue Bot
